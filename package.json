@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Aashishsharma/jsenvironment/issues"
   },
-  "homepage": "https://github.com/Aashishsharma/jsenvironment#readme"
+  "homepage": "https://github.com/Aashishsharma/jsenvironment#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
